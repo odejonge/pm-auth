@@ -1,0 +1,7 @@
+{"array": [
+  {"text": "10 minuten", "value": "00:10"},
+  {"text": "30 minuten", "value": "00:30"},
+  {"text": "1 uur", "value": "01:00"},
+  {"text": "3 uur", "value": "03:00"},
+  {"text": "8 uur", "value": "08:00"}
+]}
